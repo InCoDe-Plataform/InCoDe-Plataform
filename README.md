@@ -2,7 +2,7 @@
 
 Junio es una plataforma digital diseñada para fortalecer la participación, la colaboración y la innovación democrática a través de la tecnología.
 
-La plataforma está siendo desarrollada por **FemCoders Club**, una comunidad de mujeres en tecnología, en colaboración con **INCODE ONG**, una organización enfocada en la participación democrática, la innovación social, la inclusión digital y el empoderamiento político de las mujeres a través de la tecnología. La misión del proyecto es crear herramientas digitales accesibles, seguras e inclusivas que fomenten la participación, la transparencia y el impacto social positivo.
+La plataforma está siendo desarrollada por **[FemCoders Club](https://www.femcodersclub.com/)**, una comunidad de mujeres en tecnología, en colaboración con **INCODE ONG**, una organización enfocada en la participación democrática, la innovación social, la inclusión digital y el empoderamiento político de las mujeres a través de la tecnología. La misión del proyecto es crear herramientas digitales accesibles, seguras e inclusivas que fomenten la participación, la transparencia y el impacto social positivo.
 
 ## Acerca de INCODE ONG
 
@@ -10,7 +10,9 @@ INCODE ONG promueve el uso de la tecnología, la innovación y la participación
 
 ## Acerca de FemCoders Club
 
-FemCoders Club es una comunidad de mujeres en tecnología que promueve el aprendizaje, la colaboración y el crecimiento profesional a través de eventos, mentoría, capacitación y proyectos del mundo real.
+[FemCoders Club](https://www.femcodersclub.com/) es una comunidad de mujeres en tecnología que promueve el aprendizaje, la colaboración y el crecimiento profesional a través de eventos, mentoría, capacitación y proyectos del mundo real.
+
+Síguenos en: [GitHub - FemCoders Club](https://github.com/femcodersclub)
 
 ## Nuestros Principios
 
