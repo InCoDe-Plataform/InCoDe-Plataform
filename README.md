@@ -1,4 +1,4 @@
-# Junio
+# JUNE
 
 Junio es una plataforma digital diseñada para fortalecer la participación, la colaboración y la innovación democrática a través de la tecnología.
 
@@ -23,7 +23,7 @@ FemCoders Club es una comunidad de mujeres en tecnología que promueve el aprend
 
 ## Tecnología
 
-Esta organización alberga el código fuente, documentación e infraestructura que potencia la plataforma Junio.
+Esta organización alberga el código fuente, documentación e infraestructura que potencia la plataforma JUNE.
 
 ## Enlaces
 
